@@ -11,7 +11,7 @@ Canvas.pack()
 
 logo_img = PhotoImage(file='yt.png')
 
-
+Canvas.create_image(250, 80, image=logo_img)
 
 
 
